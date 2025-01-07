@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 <h1 align="center">Hi 👋, I'm MARCELIN</h1>
-<h3 align="center">Developper,Designer, Redacteur Web</h3>
+<h3 align="center">Developper,Designer,Concepteur</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
